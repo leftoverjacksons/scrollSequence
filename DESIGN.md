@@ -212,8 +212,12 @@ The class mapping is a best guess from Fusion's appearance names and colours. Co
 
 ## 12. Repo / storage
 
-- The project lives in `C:\Users\Travis\Scroll Sequence`. **Not under git yet.**
-- When we set it up: `git init`, a `.gitignore` for `*.blend1` and `render_log.txt`, and **Git LFS for `*.blend` and `*.usdz`**. The retired 108 MB OBJ stays out of the repo.
+- **Repo:** https://github.com/leftoverjacksons/scrollSequence (branch `main`). Local working copy: `C:\Users\Travis\Scroll Sequence`.
+- **Hosted page:** GitHub Pages from `main` / root → https://leftoverjacksons.github.io/scrollSequence/. `.nojekyll` makes Pages serve the files as-is.
+- **Git LFS** holds `*.blend` and `*.usdz` (see `.gitattributes`). The frames are **not** in LFS on purpose: GitHub Pages doesn't serve LFS files, so `frames/*.webp` must stay as normal git files.
+- **Ignored:** `*.blend1`, `render_log.txt`, `.claude/`. The retired 108 MB OBJ lives outside the project and isn't in the repo.
+- Commits use the GitHub noreply address `leftoverjacksons@users.noreply.github.com` (repo-local git config).
+- **Workflow after a re-render:** bump `VERSION` in `index.html`, then commit `frames/`, `index.html` and the `.blend`, and push. Pages redeploys in about a minute.
 
 ---
 
