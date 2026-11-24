@@ -195,12 +195,41 @@ The class mapping is a best guess from Fusion's appearance names and colours. Co
 
 ## 10. Scroll page (`index.html`)
 
-- Intro and outro sections, with a **500vh** scroll track around a fixed (sticky) full-screen canvas.
-- `FRAME_COUNT = 180`. **Bump `VERSION` after every re-render** so browsers don't show cached frames (currently `9`). Don't open the page while a render is running: the browser caches a mix of old and new frames under the same version.
+- Intro and outro sections, with a scroll track around a fixed (sticky) full-screen canvas. The track's height comes from `STOPS`: currently 1100vh, plus one screen.
+- `FRAME_COUNT = 180`. **Bump `VERSION` after every re-render** so browsers don't show cached frames (currently `11`). Don't open the page while a render is running: the browser caches a mix of old and new frames under the same version.
 - Preloads all frames, with a thin progress bar while loading. If you scroll faster than frames load, it shows the nearest loaded frame.
 - Sizing: fits the whole frame on wide screens and crops to fill (up to 1.6× zoom) on tall or phone screens.
-- Captions (scroll progress 0–1): `01 Built to hold together` 0–0.13 · `02 Opened up` 0.40–0.64 · `03 Back together` 0.88–1.0. **The caption text is placeholder copy.**
-- Background `#17181c` matches the render.
+- **Scroll pacing (`STOPS`):** a list of [scroll position in vh, animation frame] pairs. Frames between stops are spread evenly, so a long scroll span covering few frames makes the page linger. That's how each callout gets roughly a screen of scroll.
+- **Callouts** (the `CALLOUTS` array in `index.html`; text is first-draft copy, edit freely). Each is a label in a left or right column with a leader line to a dot on the part. The leader follows the part every frame through the pitch, explode and spin.
+
+  | Frames | Callout | Points at |
+  |---|---|---|
+  | 2–13 | **Ruggedized construction** headline + **ASA substrate** + **TPE overmold** | Front Substrate face / Front Overmold edge |
+  | 14–26 | **Buttons** + **LED indicator** + **Sensor tunnel** | Button pad on the Rear Overmold / light-pipe exit / rear louver (sensor tunnel) |
+  | 57–65 | **¼"-20 standard mount** | `7588N66` insert in the rear housing (the thumb screw threads into it) |
+  | 77–88 | **Cell antenna** | `New Antennae` (flat white flex antenna) |
+  | 88–97 | **Auxiliary input** (M8 port) | `M8 Bushing` (the port: bushing + pins), not the plug that pulls out |
+  | 97–109 | **Polymagnet bracket** | `2494N54` magnet in the wall bracket |
+  | 109–123 | **LiPoly battery** | `HCP433438 front` pack |
+
+- **Anchor tracking:** `tools/callouts.py` (run in Blender: `export_callouts()`) fixes each anchor to a point on its part. For every frame in its window it writes the 2D image position and whether that point is visible (a ray test, so a label hides when its part is behind something) to **`callouts.json`**. The windows were picked from a visibility scan:
+  - The ¼"-20 insert is only exposed at frames 58–65, while the housings separate and before the spin turns it away.
+  - The sensor tunnel is hidden from about frame 25 as the device pitches.
+- **Text never covers the model:** `export_callouts()` also writes a per-frame **model mask** into `callouts.json`: an 80×45 grid (24 px cells), marking each cell that differs from the background in the dark frames, glow halos included.
+- **Labels never move:** each label gets **one fixed screen position for its whole window**; only the leader line follows the part. (Per-frame placement made labels flutter.) The layout is computed once per viewport size, picking the spot nearest the anchor's average position, preferred side first, where the text box clears:
+  - the model in **every** frame of the window, with a 14 px margin;
+  - the labels and headline shown at the same time (labels sharing a window are placed top-to-bottom by anchor height);
+  - the screen edges.
+
+  Leaders that run through another label or cross another leader are heavily penalised (this is what separates ASA and TPE). On very narrow screens with no clear spot, a label falls back to its preferred side. The headline tries top-left, bottom-left, top-right, bottom-right and then top-centre, clear of the model across its window.
+- **Re-run `export_callouts()` after any change to the animation or camera** (it re-reads `frames/` for the mask, so render first), then bump `VERSION`.
+- **Later idea from the user:** an "x-ray" view on the buttons callout, to see the button on the other side through the housing.
+- **Themes:**
+  - **Light (default):** for the Slate Safety site, which is a white page with Pantone 165 C orange accents. It shows `frames_white/` on `#ffffff`, with dark text and orange eyebrow labels and dots.
+  - **Dark:** `?theme=dark` shows `frames/` on `#17181c`.
+- **White frames:** `tools/render_white.py` swaps only the camera-ray background to white. Strength 8 is what AgX needs to reach #FFFFFF; strength 4 gives #F8F8F8. Lighting and reflections are unchanged, and the saved .blend isn't touched. It also raises the bloom threshold from 6 to 12: the white background (strength 8) is above 6, and at that threshold it bloomed over the whole model as a haze. The LEDs and pipe edges are well above 12, so they still bloom. Render with:
+  `blender -b beacon_explode.blend --python tools/render_white.py -a`
+- The magenta glow halos read much more softly on white than on dark.
 - Preview: the page needs a local web server (it won't load frames from `file://`). From this folder run `python -m http.server 8766`, then open http://localhost:8766.
 
 ## 11. Known issues / open questions
