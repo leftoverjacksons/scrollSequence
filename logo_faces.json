@@ -1,0 +1,56 @@
+[
+ {
+  "body": "Body7347",
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "Front Substrate:1"
+  ],
+  "geom": "Plane",
+  "area": 0.6109126736358951,
+  "min": [
+   5.613361903937375,
+   -1.1499539503574372,
+   0.5071747059709448
+  ],
+  "max": [
+   7.14895262087158,
+   -1.1499539503574372,
+   1.8940732871606005
+  ],
+  "normal": [
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "appearance": "Slate Cool Grey 11c"
+ },
+ {
+  "body": "Body7347",
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "Front Substrate:1"
+  ],
+  "geom": "Plane",
+  "area": 0.6218521561456415,
+  "min": [
+   5.61336081134061,
+   -1.1499539503574372,
+   1.0383650615924649
+  ],
+  "max": [
+   7.148964738383604,
+   -1.1499539503574372,
+   2.2897857692951016
+  ],
+  "normal": [
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "appearance": "Slate Cool Grey 11c"
+ }
+]

@@ -1,0 +1,6 @@
+# Blender autosave/backup
+*.blend1
+*.blend@
+# local logs / tooling
+render_log.txt
+.claude/

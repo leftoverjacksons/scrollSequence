@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beacon V3</title>
+<style>
+  :root {
+    --bg: #17181c;         /* matched to the render background */
+    --fg: #f2f0ea;
+    --muted: #a3a6ab;
+    --accent: #d9c9a3;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { background: var(--bg); color: var(--fg); }
+  body { font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+
+  .intro, .outro {
+    min-height: 70vh; display: grid; place-content: center; text-align: center; padding: 0 16px;
+  }
+  h1 { font-size: clamp(2.4rem, 7vw, 5rem); letter-spacing: -0.03em; font-weight: 650; }
+  .intro p, .outro p { color: var(--muted); margin-top: .5rem; }
+  .hint { margin-top: 2.5rem; font-size: .8rem; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); }
+
+  /* The scroll track: its height sets how long the sequence lasts */
+  .sequence { position: relative; height: 500vh; }
+  .stage { position: sticky; top: 0; height: 100vh; overflow: hidden; }
+  canvas { width: 100%; height: 100%; display: block; }
+
+  .caption {
+    position: absolute; left: max(16px, 6vw); bottom: 12vh; max-width: 26rem;
+    opacity: 0; transform: translateY(12px); transition: opacity .4s, transform .4s;
+    pointer-events: none;
+  }
+  .caption.on { opacity: 1; transform: none; }
+  .caption small { color: var(--accent); letter-spacing: .15em; text-transform: uppercase; font-size: .75rem; }
+  .caption h2 { font-size: clamp(1.4rem, 3vw, 2.2rem); font-weight: 600; letter-spacing: -0.02em; }
+  .caption p { color: var(--muted); }
+
+  .loader {
+    position: absolute; inset: auto 0 0 0; height: 2px; background: var(--accent);
+    transform-origin: left; transform: scaleX(0); transition: transform .2s, opacity .6s;
+  }
+</style>
+</head>
+<body>
+
+<section class="intro">
+  <h1>Beacon V3</h1>
+  <p>Every part, in its place.</p>
+  <div class="hint">Scroll</div>
+</section>
+
+<section class="sequence" id="sequence">
+  <div class="stage">
+    <canvas id="canvas"></canvas>
+    <!-- data-from / data-to are scroll progress (0–1) where each caption shows -->
+    <div class="caption" data-from="0.00" data-to="0.13">
+      <small>01</small><h2>Built to hold together</h2><p>A rigid plastic core wrapped in desert-tan TPE.</p>
+    </div>
+    <div class="caption" data-from="0.40" data-to="0.64">
+      <small>02</small><h2>Opened up</h2><p>Shells, main board, sub-board, antenna and light pipe, layer by layer.</p>
+    </div>
+    <div class="caption" data-from="0.88" data-to="1.01">
+      <small>03</small><h2>Back together</h2><p>Brass inserts and standoffs lock every layer in place.</p>
+    </div>
+    <div class="loader" id="loader"></div>
+  </div>
+</section>
+
+<section class="outro">
+  <h1>Beacon V3</h1>
+  <p>Designed in Fusion. Rendered in Blender.</p>
+</section>
+
+<script>
+(() => {
+  const FRAME_COUNT = 180;
+  const VERSION = 9; // bump after re-rendering so browsers don't show cached frames
+  const src = i => `frames/frame_${String(i + 1).padStart(3, "0")}.webp?v=${VERSION}`;
+
+  const canvas = document.getElementById("canvas");
+  const ctx = canvas.getContext("2d");
+  const track = document.getElementById("sequence");
+  const loader = document.getElementById("loader");
+  const captions = [...document.querySelectorAll(".caption")];
+
+  const frames = new Array(FRAME_COUNT);
+  let loaded = 0, current = -1;
+
+  // Preload: first frame immediately, then the rest
+  for (let i = 0; i < FRAME_COUNT; i++) {
+    const img = new Image();
+    img.decoding = "async";
+    img.onload = () => {
+      loaded++;
+      loader.style.transform = `scaleX(${loaded / FRAME_COUNT})`;
+      if (loaded === FRAME_COUNT) loader.style.opacity = 0;
+      if (i === 0 || i === targetFrame()) draw(true);
+    };
+    img.src = src(i);
+    frames[i] = img;
+  }
+
+  function resize() {
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    canvas.width = canvas.clientWidth * dpr;
+    canvas.height = canvas.clientHeight * dpr;
+    draw(true);
+  }
+
+  function progress() {
+    const r = track.getBoundingClientRect();
+    const total = r.height - window.innerHeight;
+    return Math.min(1, Math.max(0, -r.top / total));
+  }
+  const targetFrame = () => Math.round(progress() * (FRAME_COUNT - 1));
+
+  // Nearest frame that has loaded, so fast scrolling never shows a blank
+  function nearestLoaded(i) {
+    for (let d = 0; d < FRAME_COUNT; d++) {
+      if (frames[i - d]?.complete && frames[i - d].naturalWidth) return frames[i - d];
+      if (frames[i + d]?.complete && frames[i + d].naturalWidth) return frames[i + d];
+    }
+    return null;
+  }
+
+  function draw(force) {
+    const i = targetFrame();
+    if (i === current && !force) return;
+    const img = nearestLoaded(i);
+    if (!img) return;
+    current = i;
+    // "contain" on wide screens, gentle "cover" crop on tall/mobile screens
+    const cw = canvas.width, ch = canvas.height;
+    const iw = img.naturalWidth, ih = img.naturalHeight;
+    const contain = Math.min(cw / iw, ch / ih), cover = Math.max(cw / iw, ch / ih);
+    const s = Math.min(cover, contain * 1.6);
+    const w = iw * s, h = ih * s;
+    ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--bg");
+    ctx.fillRect(0, 0, cw, ch);
+    ctx.drawImage(img, (cw - w) / 2, (ch - h) / 2, w, h);
+  }
+
+  function update() {
+    const p = progress();
+    captions.forEach(c => c.classList.toggle("on", p >= +c.dataset.from && p < +c.dataset.to));
+    draw(false);
+  }
+
+  let ticking = false;
+  window.addEventListener("scroll", () => {
+    if (!ticking) { ticking = true; requestAnimationFrame(() => { update(); ticking = false; }); }
+  }, { passive: true });
+  window.addEventListener("resize", resize);
+  resize(); update();
+})();
+</script>
+</body>
+</html>

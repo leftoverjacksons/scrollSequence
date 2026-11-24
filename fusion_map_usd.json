@@ -1,0 +1,6869 @@
+{
+ "Body1.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):1",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0805_2012Metric (1):1",
+   "C_0805_2012Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "L_0402_1005Metric (1):1",
+   "L_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SiWx917Y:1",
+   "(Unsaved) (1):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):1",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):1",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.008": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "7588N66_Mold-in Inserts for Plastic:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "U.FL_Hirose_U.FL-R-SMT-1_Vertical (1):1",
+   "U.FL_Hirose_U.FL-R-SMT-1_Vertical:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm:1",
+   "MicroCrystal_CM9V_T1A:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.013": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:13"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "GLA.01 v0 (1):1",
+   "GLA.01 v0:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.015": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.016": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:1",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.017": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Crystal_SMD_3225-4Pin_3.2x2.5mm (1):1",
+   "Crystal_SMD_3225-4Pin_3.2x2.5mm:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.018": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.019": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:15"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.020": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LGA-12_2x2mm_P0.5mm:1",
+   "LGA_12_2x2mm_P05mm:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.021": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.022": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering (1):1",
+   "Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.023": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Same_Sky_UJ20-C-V-SMT-TR-68:1",
+   "CUI_DEVICES_UJ20-C-V-SMT-TR-68:1"
+  ],
+  "body": "Body1",
+  "err": 0.0002
+ },
+ "Body1.024": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "FH34SRJ-8S-0.5SH (1):1",
+   "FH34SRJ-8S-0.5SH:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.025": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "sim8075-6-1-12-00-a_with_card:1",
+   "sim8075-6-1-12-00-a v1:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.026": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "WFH-2100190:1",
+   "FH34SRJ-6S_ACTUATOROPEN.PRT:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.027": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SOT-23-6:1",
+   "SOT_23_6:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.028": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Same_Sky_UJ2-MIBV-4-SMT-TR-67:1",
+   "CUI_DEVICES_UJ2-MIBV-4-SMT-TR-67:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.029": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "WLA.01 v1 (1):1",
+   "WLA.01 v1:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.030": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.031": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.032": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "_autosave-BEACON V3 REV C PCB:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.033": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):2",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.034": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):3",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.035": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "L_0402_1005Metric (1):2",
+   "L_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.036": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):2",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.037": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):3",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.038": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):4",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.039": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):5",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.040": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):4",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.041": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):5",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.042": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):6",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.043": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):6",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.044": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):7",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.045": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):7",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.046": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):8",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.047": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):9",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.048": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):2",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.049": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):8",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.050": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.051": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:2",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.052": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.053": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):10",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.054": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "L_0402_1005Metric (1):3",
+   "L_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.055": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):11",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.056": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):12",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.057": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):13",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.058": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):9",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.059": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):14",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.060": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):10",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.061": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0603_1608Metric (1):2",
+   "R_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.062": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):11",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.063": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):15",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.064": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):12",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.065": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):16",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.066": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:16"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.067": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):13",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.068": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):14",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.069": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):17",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.070": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):3",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.071": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):15",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.072": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.073": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):18",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.074": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0603_1608Metric (1):3",
+   "R_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.075": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):16",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.076": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):17",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.077": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):18",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.078": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):19",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.079": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):19",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.080": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):20",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.081": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.082": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):21",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.083": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0805_2012Metric (1):2",
+   "C_0805_2012Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.084": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):22",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.085": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):23",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.086": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):24",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.087": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):20",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.088": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):25",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.089": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):26",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.090": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):27",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.091": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):28",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.092": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0603_1608Metric (1):4",
+   "R_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.093": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):29",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.094": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):21",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.095": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):30",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.096": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):4",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.097": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):31",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.098": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):22",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.099": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):32",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.100": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):23",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.101": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):33",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.102": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):34",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.103": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):24",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.104": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):25",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.105": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0805_2012Metric (1):3",
+   "C_0805_2012Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.106": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):35",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.107": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):36",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.108": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):37",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.109": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):38",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.110": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):39",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.111": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):40",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.112": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):26",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.113": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):41",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.114": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):27",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.115": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):28",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.116": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):29",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.117": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):5",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.118": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):42",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.119": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):30",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.120": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):31",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.121": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):43",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.122": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):44",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.123": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):32",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.124": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):33",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.125": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):6",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.126": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):45",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.127": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):34",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.128": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):46",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.129": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):35",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.130": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):47",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.131": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):48",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.132": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0603_1608Metric (1):5",
+   "R_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.133": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):49",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.134": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):50",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.135": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):51",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.136": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):36",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.137": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):52",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.138": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):37",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.139": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):38",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.140": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):53",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.141": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):39",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.142": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):40",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.143": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):41",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.144": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):7",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.145": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):54",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.146": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0805_2012Metric (1):4",
+   "C_0805_2012Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.147": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):42",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.148": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):8",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.149": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):55",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.150": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):56",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.151": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):9",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.152": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0603_1608Metric (1):1",
+   "R_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.153": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):43",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.154": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):10",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.155": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):11",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.156": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):44",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.157": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):57",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.158": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):45",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.159": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0402_1005Metric (1):58",
+   "C_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.160": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "C_0603_1608Metric (1):12",
+   "C_0603_1608Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.161": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "R_0402_1005Metric (1):46",
+   "R_0402_1005Metric:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.162": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3 Sensor Flex REV E:1",
+   "C_0402_1005Metric (1) (3):1",
+   "C_0402_1005Metric (4):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.163": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:11"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.164": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.165": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3 Sensor Flex REV E:1",
+   "C_0402_1005Metric (1) (3):2",
+   "C_0402_1005Metric (4):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.166": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3 Sensor Flex REV E:1",
+   "C_0402_1005Metric (1) (3):3",
+   "C_0402_1005Metric (4):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.167": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3 Sensor Flex REV E:1",
+   "C_0402_1005Metric (1) (3):4",
+   "C_0402_1005Metric (4):1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.168": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3 Sensor Flex REV E:1",
+   "BEACON V3 Sensor Flex REV E PCB:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.169": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A015_Alloy Steel Socket Head Screw:1"
+  ],
+  "body": "Body1",
+  "err": 0.0008
+ },
+ "Body1.170": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A015_Alloy Steel Socket Head Screw:2"
+  ],
+  "body": "Body1",
+  "err": 0.0008
+ },
+ "Body1.171": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A015_Alloy Steel Socket Head Screw:3"
+  ],
+  "body": "Body1",
+  "err": 0.0008
+ },
+ "Body1.172": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A015_Alloy Steel Socket Head Screw:4"
+  ],
+  "body": "Body1",
+  "err": 0.0008
+ },
+ "Body1.173": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A012_Alloy Steel Socket Head Screw:2"
+  ],
+  "body": "Body1",
+  "err": 0.0006
+ },
+ "Body1.174": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A012_Alloy Steel Socket Head Screw:3"
+  ],
+  "body": "Body1",
+  "err": 0.0006
+ },
+ "Body1.175": {
+  "path": [
+   "Rear Assembly:1",
+   "91290A012_Alloy Steel Socket Head Screw:4"
+  ],
+  "body": "Body1",
+  "err": 0.0006
+ },
+ "Body1.176": {
+  "path": [
+   "Rear Assembly:1",
+   "20278-1xxR-13C PLUG R15 STEP ALL:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.177": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-01___:1"
+  ],
+  "body": "Body1",
+  "err": 0.0016
+ },
+ "Body1.178": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-02___:1"
+  ],
+  "body": "Body1",
+  "err": 0.0015
+ },
+ "Body1.179": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-06___:1"
+  ],
+  "body": "Body1",
+  "err": 0.0018
+ },
+ "Body1.180": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:1"
+  ],
+  "body": "Body1",
+  "err": 0.0014
+ },
+ "Body1.181": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:2"
+  ],
+  "body": "Body1",
+  "err": 0.0014
+ },
+ "Body1.182": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:3"
+  ],
+  "body": "Body1",
+  "err": 0.0013
+ },
+ "Body1.183": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:4"
+  ],
+  "body": "Body1",
+  "err": 0.0016
+ },
+ "Body1.184": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:5"
+  ],
+  "body": "Body1",
+  "err": 0.0015
+ },
+ "Body1.185": {
+  "path": [
+   "Rear Assembly:1",
+   "54-00323:1",
+   "54-00323-03___:6"
+  ],
+  "body": "Body1",
+  "err": 0.0016
+ },
+ "Body1.186": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:7"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.187": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:8"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.188": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:9"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.189": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "7588N72_Mold-in Inserts for Plastic:10"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.190": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Download_STP_WE-SHC-3600213120S (rev1):1",
+   "3600213120S:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.191": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Download_STP_WE-SHC-3610213126S (rev1):1",
+   "3610213126S:1"
+  ],
+  "body": "Body1",
+  "err": 0.0
+ },
+ "Body1.192": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body1",
+  "err": 0.0002
+ },
+ "Body10.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body10",
+  "err": 0.0
+ },
+ "Body10.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body10",
+  "err": 0.0002
+ },
+ "Body100.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body100",
+  "err": 0.0002
+ },
+ "Body100.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body100",
+  "err": 0.0
+ },
+ "Body101.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body101",
+  "err": 0.0002
+ },
+ "Body101.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body101",
+  "err": 0.0
+ },
+ "Body102.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body102",
+  "err": 0.0002
+ },
+ "Body102.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body102",
+  "err": 0.0
+ },
+ "Body103.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body103",
+  "err": 0.0002
+ },
+ "Body103.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body103",
+  "err": 0.0
+ },
+ "Body104.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body104",
+  "err": 0.0002
+ },
+ "Body104.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body104",
+  "err": 0.0
+ },
+ "Body105.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body105",
+  "err": 0.0002
+ },
+ "Body105.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body105",
+  "err": 0.0
+ },
+ "Body106.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body106",
+  "err": 0.0002
+ },
+ "Body106.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body106",
+  "err": 0.0
+ },
+ "Body107.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body107",
+  "err": 0.0002
+ },
+ "Body107.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body107",
+  "err": 0.0
+ },
+ "Body108.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body108",
+  "err": 0.0002
+ },
+ "Body108.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body108",
+  "err": 0.0
+ },
+ "Body109.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body109",
+  "err": 0.0002
+ },
+ "Body109.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body109",
+  "err": 0.0
+ },
+ "Body11.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body11",
+  "err": 0.0
+ },
+ "Body11.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body11",
+  "err": 0.0002
+ },
+ "Body110.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body110",
+  "err": 0.0002
+ },
+ "Body110.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body110",
+  "err": 0.0003
+ },
+ "Body111.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body111",
+  "err": 0.0002
+ },
+ "Body111.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body111",
+  "err": 0.0
+ },
+ "Body112.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body112",
+  "err": 0.0002
+ },
+ "Body112.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body112",
+  "err": 0.0
+ },
+ "Body113.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body113",
+  "err": 0.0002
+ },
+ "Body113.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body113",
+  "err": 0.0
+ },
+ "Body114.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body114",
+  "err": 0.0002
+ },
+ "Body114.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body114",
+  "err": 0.0
+ },
+ "Body115.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body115",
+  "err": 0.0002
+ },
+ "Body115.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body115",
+  "err": 0.0
+ },
+ "Body116.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body116",
+  "err": 0.0002
+ },
+ "Body116.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body116",
+  "err": 0.0003
+ },
+ "Body117.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body117",
+  "err": 0.0002
+ },
+ "Body117.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body117",
+  "err": 0.0
+ },
+ "Body118.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body118",
+  "err": 0.0002
+ },
+ "Body118.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body118",
+  "err": 0.0
+ },
+ "Body119.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body119",
+  "err": 0.0002
+ },
+ "Body119.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body119",
+  "err": 0.0
+ },
+ "Body12.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body12",
+  "err": 0.0
+ },
+ "Body12.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body12",
+  "err": 0.0
+ },
+ "Body12.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body12",
+  "err": 0.0
+ },
+ "Body12.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body12",
+  "err": 0.0
+ },
+ "Body12.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body12",
+  "err": 0.0
+ },
+ "Body12.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body12",
+  "err": 0.0002
+ },
+ "Body120.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body120",
+  "err": 0.0002
+ },
+ "Body120.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body120",
+  "err": 0.0
+ },
+ "Body121.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body121",
+  "err": 0.0002
+ },
+ "Body121.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body121",
+  "err": 0.0
+ },
+ "Body122.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body122",
+  "err": 0.0002
+ },
+ "Body122.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body122",
+  "err": 0.0
+ },
+ "Body123.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body123",
+  "err": 0.0002
+ },
+ "Body123.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body123",
+  "err": 0.0
+ },
+ "Body124.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body124",
+  "err": 0.0002
+ },
+ "Body124.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body124",
+  "err": 0.0
+ },
+ "Body125.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body125",
+  "err": 0.0002
+ },
+ "Body125.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body125",
+  "err": 0.0
+ },
+ "Body126.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body126",
+  "err": 0.0002
+ },
+ "Body126.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body126",
+  "err": 0.0
+ },
+ "Body127.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body127",
+  "err": 0.0002
+ },
+ "Body127.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body127",
+  "err": 0.0
+ },
+ "Body128.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body128",
+  "err": 0.0002
+ },
+ "Body128.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body128",
+  "err": 0.0
+ },
+ "Body129.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body129",
+  "err": 0.0002
+ },
+ "Body129.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body129",
+  "err": 0.0
+ },
+ "Body13.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body13",
+  "err": 0.0
+ },
+ "Body13.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body13",
+  "err": 0.0
+ },
+ "Body13.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body13",
+  "err": 0.0
+ },
+ "Body13.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body13",
+  "err": 0.0
+ },
+ "Body13.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body13",
+  "err": 0.0
+ },
+ "Body13.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body13",
+  "err": 0.0002
+ },
+ "Body130.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body130",
+  "err": 0.0002
+ },
+ "Body130.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body130",
+  "err": 0.0
+ },
+ "Body131.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body131",
+  "err": 0.0002
+ },
+ "Body131.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body131",
+  "err": 0.0
+ },
+ "Body132.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body132",
+  "err": 0.0002
+ },
+ "Body132.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body132",
+  "err": 0.0
+ },
+ "Body133.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body133",
+  "err": 0.0
+ },
+ "Body133.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body133",
+  "err": 0.0
+ },
+ "Body134.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body134",
+  "err": 0.0
+ },
+ "Body134.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body134",
+  "err": 0.0
+ },
+ "Body135.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body135",
+  "err": 0.0
+ },
+ "Body136.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body136",
+  "err": 0.0
+ },
+ "Body137.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body137",
+  "err": 0.0
+ },
+ "Body138.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body138",
+  "err": 0.0
+ },
+ "Body139.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body139",
+  "err": 0.0
+ },
+ "Body13951.001": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Overmold:1"
+  ],
+  "body": "Body13951",
+  "err": 0.0004
+ },
+ "Body14.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body14",
+  "err": 0.0
+ },
+ "Body14.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body14",
+  "err": 0.0
+ },
+ "Body14.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body14",
+  "err": 0.0
+ },
+ "Body14.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body14",
+  "err": 0.0
+ },
+ "Body14.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body14",
+  "err": 0.0
+ },
+ "Body14.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body14",
+  "err": 0.0002
+ },
+ "Body140.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body140",
+  "err": 0.0
+ },
+ "Body141.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body141",
+  "err": 0.0
+ },
+ "Body142.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body142",
+  "err": 0.0
+ },
+ "Body143.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body143",
+  "err": 0.0
+ },
+ "Body144.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body144",
+  "err": 0.0
+ },
+ "Body145.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body145",
+  "err": 0.0
+ },
+ "Body146.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body146",
+  "err": 0.0
+ },
+ "Body147.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body147",
+  "err": 0.0
+ },
+ "Body148.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body148",
+  "err": 0.0
+ },
+ "Body149.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body149",
+  "err": 0.0
+ },
+ "Body15.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body15",
+  "err": 0.0
+ },
+ "Body15.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body15",
+  "err": 0.0
+ },
+ "Body15.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body15",
+  "err": 0.0
+ },
+ "Body15.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body15",
+  "err": 0.0
+ },
+ "Body15.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body15",
+  "err": 0.0
+ },
+ "Body15.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body15",
+  "err": 0.0002
+ },
+ "Body150.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body150",
+  "err": 0.0
+ },
+ "Body151.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body151",
+  "err": 0.0
+ },
+ "Body152.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body152",
+  "err": 0.0
+ },
+ "Body153.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body153",
+  "err": 0.0
+ },
+ "Body16.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body16",
+  "err": 0.0
+ },
+ "Body16.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body16",
+  "err": 0.0
+ },
+ "Body16.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body16",
+  "err": 0.0
+ },
+ "Body16.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body16",
+  "err": 0.0
+ },
+ "Body16.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body16",
+  "err": 0.0002
+ },
+ "Body17.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body17",
+  "err": 0.0002
+ },
+ "Body17.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body17",
+  "err": 0.0
+ },
+ "Body17.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body17",
+  "err": 0.0
+ },
+ "Body17.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body17",
+  "err": 0.0
+ },
+ "Body17.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body17",
+  "err": 0.0
+ },
+ "Body18.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body18",
+  "err": 0.0002
+ },
+ "Body18.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body18",
+  "err": 0.0
+ },
+ "Body18.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body18",
+  "err": 0.0
+ },
+ "Body18.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body18",
+  "err": 0.0
+ },
+ "Body18.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body18",
+  "err": 0.0
+ },
+ "Body1814.001": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front OVermold:1"
+  ],
+  "body": "Body1814",
+  "err": 0.0
+ },
+ "Body19.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body19",
+  "err": 0.0002
+ },
+ "Body19.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body19",
+  "err": 0.0
+ },
+ "Body19.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body19",
+  "err": 0.0
+ },
+ "Body19.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body19",
+  "err": 0.0
+ },
+ "Body19.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body19",
+  "err": 0.0
+ },
+ "Body2.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:1",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "Same_Sky_UJ20-C-V-SMT-TR-68:1",
+   "CUI_DEVICES_UJ20-C-V-SMT-TR-68:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:2",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.015": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.016": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body2",
+  "err": 0.0
+ },
+ "Body2.017": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body2",
+  "err": 0.0002
+ },
+ "Body20.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body20",
+  "err": 0.0002
+ },
+ "Body20.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body20",
+  "err": 0.0
+ },
+ "Body20.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body20",
+  "err": 0.0
+ },
+ "Body20.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body20",
+  "err": 0.0
+ },
+ "Body20.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body20",
+  "err": 0.0
+ },
+ "Body21.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body21",
+  "err": 0.0002
+ },
+ "Body21.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body21",
+  "err": 0.0
+ },
+ "Body21.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body21",
+  "err": 0.0
+ },
+ "Body21.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body21",
+  "err": 0.0
+ },
+ "Body21.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body21",
+  "err": 0.0
+ },
+ "Body2162.001": {
+  "path": [
+   "Rear Assembly:1",
+   "Rear - Substrate & Overmold:1",
+   "Rear Substrate w/ Inserts:1",
+   "Rear Substrate:1"
+  ],
+  "body": "Body2162",
+  "err": 0.0
+ },
+ "Body22.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body22",
+  "err": 0.0002
+ },
+ "Body22.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body22",
+  "err": 0.0
+ },
+ "Body22.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body22",
+  "err": 0.0
+ },
+ "Body22.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body22",
+  "err": 0.0
+ },
+ "Body22.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body22",
+  "err": 0.0
+ },
+ "Body23.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body23",
+  "err": 0.0002
+ },
+ "Body23.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body23",
+  "err": 0.0
+ },
+ "Body23.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body23",
+  "err": 0.0
+ },
+ "Body24.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body24",
+  "err": 0.0002
+ },
+ "Body24.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body24",
+  "err": 0.0
+ },
+ "Body25.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body25",
+  "err": 0.0002
+ },
+ "Body25.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body25",
+  "err": 0.0
+ },
+ "Body26.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body26",
+  "err": 0.0002
+ },
+ "Body26.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body26",
+  "err": 0.0
+ },
+ "Body27.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body27",
+  "err": 0.0002
+ },
+ "Body27.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body27",
+  "err": 0.0
+ },
+ "Body28.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body28",
+  "err": 0.0002
+ },
+ "Body28.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body28",
+  "err": 0.0
+ },
+ "Body29.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body29",
+  "err": 0.0002
+ },
+ "Body29.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body29",
+  "err": 0.0
+ },
+ "Body3.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:1",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "DFE201610E-2R2M=P2:2",
+   "1285AS-H-1R0M=P2:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.015": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body3",
+  "err": 0.0
+ },
+ "Body3.016": {
+  "path": [
+   "Rear Assembly:1",
+   "M8 Bushing:1"
+  ],
+  "body": "Body3",
+  "err": 0.0016
+ },
+ "Body3.017": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body3",
+  "err": 0.0002
+ },
+ "Body30.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body30",
+  "err": 0.0002
+ },
+ "Body30.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body30",
+  "err": 0.0
+ },
+ "Body31.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body31",
+  "err": 0.0002
+ },
+ "Body31.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body31",
+  "err": 0.0
+ },
+ "Body32.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body32",
+  "err": 0.0002
+ },
+ "Body32.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body32",
+  "err": 0.0
+ },
+ "Body33.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body33",
+  "err": 0.0002
+ },
+ "Body33.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body33",
+  "err": 0.0
+ },
+ "Body34.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body34",
+  "err": 0.0002
+ },
+ "Body34.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body34",
+  "err": 0.0
+ },
+ "Body35.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body35",
+  "err": 0.0002
+ },
+ "Body35.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body35",
+  "err": 0.0
+ },
+ "Body36.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body36",
+  "err": 0.0002
+ },
+ "Body36.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body36",
+  "err": 0.0
+ },
+ "Body37.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body37",
+  "err": 0.0002
+ },
+ "Body37.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body37",
+  "err": 0.0
+ },
+ "Body38.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body38",
+  "err": 0.0002
+ },
+ "Body38.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body38",
+  "err": 0.0
+ },
+ "Body39.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body39",
+  "err": 0.0002
+ },
+ "Body39.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body39",
+  "err": 0.0
+ },
+ "Body4.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body4",
+  "err": 0.0
+ },
+ "Body4.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body4",
+  "err": 0.0002
+ },
+ "Body40.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body40",
+  "err": 0.0002
+ },
+ "Body40.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body40",
+  "err": 0.0
+ },
+ "Body41.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body41",
+  "err": 0.0002
+ },
+ "Body41.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body41",
+  "err": 0.0
+ },
+ "Body42.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body42",
+  "err": 0.0002
+ },
+ "Body42.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body42",
+  "err": 0.0
+ },
+ "Body43.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body43",
+  "err": 0.0002
+ },
+ "Body43.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body43",
+  "err": 0.0
+ },
+ "Body44.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body44",
+  "err": 0.0002
+ },
+ "Body44.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body44",
+  "err": 0.0
+ },
+ "Body45.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body45",
+  "err": 0.0002
+ },
+ "Body45.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body45",
+  "err": 0.0
+ },
+ "Body46.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body46",
+  "err": 0.0002
+ },
+ "Body46.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body46",
+  "err": 0.0
+ },
+ "Body47.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body47",
+  "err": 0.0002
+ },
+ "Body47.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body47",
+  "err": 0.0
+ },
+ "Body48.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body48",
+  "err": 0.0002
+ },
+ "Body48.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body48",
+  "err": 0.0
+ },
+ "Body49.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body49",
+  "err": 0.0002
+ },
+ "Body49.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body49",
+  "err": 0.0
+ },
+ "Body5.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body5",
+  "err": 0.0
+ },
+ "Body5.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body5",
+  "err": 0.0002
+ },
+ "Body50.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body50",
+  "err": 0.0002
+ },
+ "Body50.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body50",
+  "err": 0.0
+ },
+ "Body51.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body51",
+  "err": 0.0002
+ },
+ "Body51.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body51",
+  "err": 0.0
+ },
+ "Body52.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body52",
+  "err": 0.0002
+ },
+ "Body52.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body52",
+  "err": 0.0
+ },
+ "Body53.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body53",
+  "err": 0.0002
+ },
+ "Body53.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body53",
+  "err": 0.0
+ },
+ "Body54.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body54",
+  "err": 0.0002
+ },
+ "Body54.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body54",
+  "err": 0.0
+ },
+ "Body55.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body55",
+  "err": 0.0002
+ },
+ "Body55.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body55",
+  "err": 0.0
+ },
+ "Body55.003": {
+  "path": [],
+  "body": "M8 Flex",
+  "err": 0.0
+ },
+ "Body56.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body56",
+  "err": 0.0002
+ },
+ "Body56.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body56",
+  "err": 0.0
+ },
+ "Body57.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body57",
+  "err": 0.0002
+ },
+ "Body57.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body57",
+  "err": 0.0
+ },
+ "Body58.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body58",
+  "err": 0.0002
+ },
+ "Body58.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body58",
+  "err": 0.0
+ },
+ "Body59.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body59",
+  "err": 0.0002
+ },
+ "Body59.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body59",
+  "err": 0.0
+ },
+ "Body6.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SM03B-SURS-TF (1):1",
+   "SM03B-SURS-TF:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body6",
+  "err": 0.0
+ },
+ "Body6.014": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body6",
+  "err": 0.0002
+ },
+ "Body60.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body60",
+  "err": 0.0002
+ },
+ "Body60.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body60",
+  "err": 0.0
+ },
+ "Body61.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body61",
+  "err": 0.0002
+ },
+ "Body61.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body61",
+  "err": 0.0
+ },
+ "Body62.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body62",
+  "err": 0.0002
+ },
+ "Body62.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body62",
+  "err": 0.0
+ },
+ "Body63.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body63",
+  "err": 0.0002
+ },
+ "Body63.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body63",
+  "err": 0.0
+ },
+ "Body64.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body64",
+  "err": 0.0002
+ },
+ "Body64.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body64",
+  "err": 0.0
+ },
+ "Body65.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body65",
+  "err": 0.0002
+ },
+ "Body65.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body65",
+  "err": 0.0
+ },
+ "Body66.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body66",
+  "err": 0.0002
+ },
+ "Body66.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body66",
+  "err": 0.0
+ },
+ "Body67.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body67",
+  "err": 0.0002
+ },
+ "Body67.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body67",
+  "err": 0.0
+ },
+ "Body68.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body68",
+  "err": 0.0002
+ },
+ "Body68.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body68",
+  "err": 0.0
+ },
+ "Body69.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body69",
+  "err": 0.0002
+ },
+ "Body69.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body69",
+  "err": 0.0
+ },
+ "Body7.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):2",
+   "Assem1:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "436331045822+(rev1):1",
+   "Assem1:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.012": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body7",
+  "err": 0.0
+ },
+ "Body7.013": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body7",
+  "err": 0.0002
+ },
+ "Body70.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body70",
+  "err": 0.0002
+ },
+ "Body70.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body70",
+  "err": 0.0
+ },
+ "Body71.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body71",
+  "err": 0.0002
+ },
+ "Body71.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body71",
+  "err": 0.0
+ },
+ "Body72.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body72",
+  "err": 0.0002
+ },
+ "Body72.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body72",
+  "err": 0.0
+ },
+ "Body73.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body73",
+  "err": 0.0002
+ },
+ "Body73.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body73",
+  "err": 0.0
+ },
+ "Body7347.001": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "Front Substrate:1"
+  ],
+  "body": "Body7347",
+  "err": 0.0
+ },
+ "Body74.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body74",
+  "err": 0.0002
+ },
+ "Body74.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body74",
+  "err": 0.0
+ },
+ "Body75.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body75",
+  "err": 0.0002
+ },
+ "Body75.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body75",
+  "err": 0.0
+ },
+ "Body76.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body76",
+  "err": 0.0002
+ },
+ "Body76.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body76",
+  "err": 0.0
+ },
+ "Body77.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body77",
+  "err": 0.0002
+ },
+ "Body77.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body77",
+  "err": 0.0
+ },
+ "Body78.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body78",
+  "err": 0.0002
+ },
+ "Body78.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body78",
+  "err": 0.0
+ },
+ "Body79.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body79",
+  "err": 0.0002
+ },
+ "Body79.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body79",
+  "err": 0.0
+ },
+ "Body8.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body8",
+  "err": 0.0
+ },
+ "Body8.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body8",
+  "err": 0.0002
+ },
+ "Body80.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body80",
+  "err": 0.0002
+ },
+ "Body80.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body80",
+  "err": 0.0
+ },
+ "Body81.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body81",
+  "err": 0.0002
+ },
+ "Body81.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body81",
+  "err": 0.0
+ },
+ "Body82.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body82",
+  "err": 0.0002
+ },
+ "Body82.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body82",
+  "err": 0.0
+ },
+ "Body83.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body83",
+  "err": 0.0002
+ },
+ "Body83.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body83",
+  "err": 0.0
+ },
+ "Body84.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body84",
+  "err": 0.0002
+ },
+ "Body84.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body84",
+  "err": 0.0
+ },
+ "Body85.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body85",
+  "err": 0.0002
+ },
+ "Body85.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body85",
+  "err": 0.0
+ },
+ "Body86.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body86",
+  "err": 0.0002
+ },
+ "Body86.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body86",
+  "err": 0.0
+ },
+ "Body87.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body87",
+  "err": 0.0002
+ },
+ "Body87.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body87",
+  "err": 0.0
+ },
+ "Body88.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body88",
+  "err": 0.0002
+ },
+ "Body88.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body88",
+  "err": 0.0
+ },
+ "Body89.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body89",
+  "err": 0.0002
+ },
+ "Body89.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body89",
+  "err": 0.0
+ },
+ "Body9.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SKY65943-11 (1):1",
+   "SKY65943-11:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.003": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "LP5012RUKR:1",
+   "RUK0020B_ASM:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.004": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "VFDFPN8_6X5_STM:1",
+   "part (1):1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.005": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "SHT35-DIS-B2.5KS:1",
+   "101742:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.006": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "TAA3020IRTER:1",
+   "RTE20:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.007": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):2",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.008": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):3",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.009": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "QLS6A-FKW-CNSNSF043 (1):1",
+   "QLS6A-FKW-CNSNSF043:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.010": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "RGY0016A:1",
+   "RGY0016A_ASM:1"
+  ],
+  "body": "Body9",
+  "err": 0.0
+ },
+ "Body9.011": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body9",
+  "err": 0.0002
+ },
+ "Body90.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body90",
+  "err": 0.0002
+ },
+ "Body90.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body90",
+  "err": 0.0
+ },
+ "Body91.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body91",
+  "err": 0.0002
+ },
+ "Body91.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body91",
+  "err": 0.0
+ },
+ "Body92.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body92",
+  "err": 0.0002
+ },
+ "Body92.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body92",
+  "err": 0.0
+ },
+ "Body93.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body93",
+  "err": 0.0002
+ },
+ "Body93.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body93",
+  "err": 0.0
+ },
+ "Body94.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body94",
+  "err": 0.0002
+ },
+ "Body94.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body94",
+  "err": 0.0
+ },
+ "Body95.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body95",
+  "err": 0.0002
+ },
+ "Body95.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body95",
+  "err": 0.0
+ },
+ "Body96.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body96",
+  "err": 0.0002
+ },
+ "Body96.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body96",
+  "err": 0.0
+ },
+ "Body97.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body97",
+  "err": 0.0002
+ },
+ "Body97.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body97",
+  "err": 0.0
+ },
+ "Body98.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body98",
+  "err": 0.0002
+ },
+ "Body98.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body98",
+  "err": 0.0
+ },
+ "Body99.001": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "UFBGA132_7X7_STM:1",
+   "part:1"
+  ],
+  "body": "Body99",
+  "err": 0.0002
+ },
+ "Body99.002": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "BEACON V3_PCB_REV_C_7_20_26:1",
+   "ME310M1-W1--3DModel-STEP-56544:1",
+   "ME310M1-W1:1"
+  ],
+  "body": "Body99",
+  "err": 0.0
+ },
+ "Light_Pipe": {
+  "path": [
+   "Rear Assembly:1",
+   "PCB Assembly:2",
+   "Light Pipe:1"
+  ],
+  "body": "Light Pipe",
+  "err": 0.0038
+ },
+ "Lower_Ledge": {
+  "path": [
+   "Front Assembly:1",
+   "Front - Substrate & Overmold:1",
+   "Front Substrate & Inserts:1",
+   "Front Substrate:1"
+  ],
+  "body": "Lower Ledge",
+  "err": 0.0
+ },
+ "LTE_Ant_Cord": {
+  "path": [
+   "Rear Assembly:1"
+  ],
+  "body": "LTE Ant Cord",
+  "err": 0.0033
+ },
+ "New_Antennae": {
+  "path": [
+   "Rear Assembly:1"
+  ],
+  "body": "New Antennae",
+  "err": 0.0
+ },
+ "Ring.001": {
+  "path": [
+   "Rear Assembly:1",
+   "Louver Screen:5"
+  ],
+  "body": "Ring",
+  "err": 0.0
+ },
+ "Ring.002": {
+  "path": [
+   "Front Assembly:1",
+   "Louver Screen:1"
+  ],
+  "body": "Ring",
+  "err": 0.0
+ }
+}
