@@ -62,14 +62,14 @@ Rules (`RULES` in `tools/build_band.py`) match `<Fusion path>::<body>`; everythi
 | Frames | What happens |
 |---|---|
 | 1–20 | Worn: strap looped as if around a wrist, camera pulled back and lower |
-| 20–32 | Both strap ends peel off the hook-and-loop (§5) |
-| 32–80 | Strap loop drops as one piece; the ends back out over the bars and down out of the slots; camera pushes in to the pod |
+| 20–36 | Both tabs come off the hook-and-loop and swing up, rigid, until they stand straight up in line with the strap (§5) |
+| 36–80 | The whole strap pulls straight down out of the slots; camera pushes in to the pod |
 | 80–92 | Pod alone, assembled, ring glowing |
 | 92–158 | Opens (order in §3); 360° spin 118–198 |
 | 158–166 | Hold, fully exploded |
 | 166–236 | Closes (exact reverse) |
-| 236–284 | Strap comes back the way it left: the loop rises and the ends feed up through the slots and over the bars; camera pulls back out |
-| 284–296 | The tails fold down and hook on |
+| 236–282 | Strap comes back the way it left: it rises straight up, tabs pointing up, until each tab has fully passed through its slot; camera pulls back out |
+| 282–296 | The webbing bends over the bars and lays the tabs flat onto the strap |
 | 296–300 | Worn again (matches frame 1) |
 
 - **`BAND_root`** at the device centre (0.005, 0, 0.448); **`BAND_spin`** under it carries every part.
@@ -82,21 +82,43 @@ Rules (`RULES` in `tools/build_band.py`) match `<Fusion path>::<body>`; everythi
 
 ## 5. Strap (`tools/strap.py`)
 
-Not in CAD, so it's modelled in Blender: black woven elastic webbing, 3.5 cm × 0.16 cm, 23 cm long, with a 1.7 cm hook-and-loop patch at each end. Both patches carry the S logo (`BAND_StrapLogo_+X`, `BAND_StrapLogo_-X`: the Pantone S faces copied from the Top shell, 1.15 cm tall, bent by the same Curve modifier).
-- The S's "up" points back toward the bar, so both read upright in the head-on camera once the tabs peel open.
-- The two tails are mirror images, so the lateral sign flips per end. Both were checked against the strap's outward normal, so neither S is mirrored.
+Not in CAD, so it's modelled in Blender.
 
-**How the real strap goes together** (from product photos): it's one strap. The wrist loop hangs below the pod; each end comes **up through its slot from underneath**, folds out over the slot's outer bar, and comes back down the outside, where its hook-and-loop patch grips the strap.
+**How the real strap goes together:**
+- It's one strap of black woven elastic webbing, 3.5 × 0.16 cm and 24.8 cm long.
+- Each end is thin webbing that comes up through its slot from underneath, wraps out over the slot's outer bar and tucks back in under it.
+- It ends in a **rigid padded tab** (2.2 cm long, 0.36 cm thick) that lies flat on the outside of the strap.
+  - The tab's back is **hook-and-loop**.
+  - Its front is a **faux-leather patch, stitched on**, printed with the S logo.
+  - As on the real patch, the S lies sideways: seen from outside with the bar at the top, the orange "roof" piece points right and the grey lower piece is on the left.
+- **The tab never bends; only the thin webbing does.**
 
+**How it's modelled:**
 - **No cloth simulation.** The strap is a ribbon bent onto a path curve (`BAND_StrapPath`, hidden) by a Curve modifier. That keeps it exact and identical on every render.
-- **The path follows the real geometry** measured from the bottom shell: slots are through-holes at |x| 2.85–3.35, |y| < 1.85, and the outer bar is at |x| 3.35–3.6, z −0.52…0.08. From the −X tip, the route goes over the −X bar, down through the slot, down the side, round a 6.2 cm-wide bottom arc, then up the +X side, through its slot, over its bar and onto the +X tail.
-- **Animation** uses two curve shape keys plus a slide:
-  1. **Peel** (20–32): both tails straighten and swing out 55° (`PEEL_DEG`). They hinge right where they come over the bar, with the bend spread over 0.45 cm (`BEND_LEN`), so the hook-and-loop lets go. When worn, each tail tucks in tight under its bar and ends about 2.6 cm down.
-  2. **Drop** (32–80): the loop drops 26 cm (`DROP_MAX`). Its sides get longer, so the ribbon slides the same distance along the path using identical keyframes. Both ends therefore retreat back over the bars and down out of the slots in step, as one piece. The ends clear the slots after about 6 cm.
-  3. Hidden 81–235.
-  4. **Return** (236–296): the exact reverse. Drop goes back to 0 over 236–284, then Peel goes back to 0 over 284–296.
-- **Checked:** no contact with any pod part, every 3rd frame over 1–55 and 240–300.
-- **Tunables** at the top of `strap.py`: width, thickness, tab length, wrist size (`LOOP_C`, `LOOP_R`), tail length, `PEEL_DEG`, `BEND_LEN`, `DROP_MAX`, timing, `LOGO_ENDS`, `LOGO_H`.
+- **Thickness:** Solidify uses the `Tab` vertex group. The tabs are `THICK_T` and the rest is `STRAP_T`, ramping over 0.2 cm on the webbing side.
+- **Material slots:** Solidify puts the outer (+Y) shell at slot index + 2 and the rims at + 4. The slots are fabric, velcro, fabric, leather, fabric, fabric. The result is fabric everywhere, velcro on the tab backs and leather on the tab fronts.
+- **The path follows the real geometry** measured from the bottom shell: slots are through-holes at |x| 2.85–3.35, |y| < 1.85, and the outer bar is at |x| 3.35–3.6, z −0.52…0.084.
+  - The tab (0.36 cm) passes through the 0.5 cm slot.
+  - The webbing's wrap centre (`WRAP_Z` 0.03) and radius are set so the bar top sits inside its inner radius.
+- **End shape** is a turning-angle profile along its length (`_tab_profile()`): webbing straight up through the slot, a half turn over the bar, down the outside to `DOWN_Z`, an S-bend in, then the tab with zero turning, so it stays rigid.
+  - Multiplying every turn by *u* (1 = worn, 0 = straight up) unfolds the webbing without stretching. The tab just swings, rigid.
+  - The curve stores *u* = 0.875 … 0 as shape keys `Fold_875` … `Fold_000`. These are blended in neighbouring pairs and keyed every frame.
+- **Logo** (`BAND_StrapLogo_+X`, `BAND_StrapLogo_-X`):
+  - It's the logo faces copied from the Top shell, split into their two pieces (roof orange, lower piece grey).
+  - It's 1 cm across the strap and centred on the tab. It's triangulated and subdivided while flat.
+  - The lateral sign flips per end, so neither S is mirrored. Both ends were checked against a photo of the real patch.
+
+**Animation:**
+1. **Unfold** (20–36): the webbing unbends and each tab swings up, rigid, until it stands straight up in line with the strap.
+2. **Pull down** (36–80): the loop's `Drop` shape key lowers it by 26 cm (`DROP_MAX`) while the ribbon slides the same distance along the path, using identical keyframes.
+   - Above the slots the path is now straight, so the whole strap moves straight down as one piece.
+   - The tabs pass down through the slots and clear them after about 4 cm.
+3. Hidden 81–235.
+4. **Return** (236–296): the exact reverse. The strap rises with the tabs pointing up (236–282). Once each tab has fully passed through its slot, the webbing bends over the bar and lays the tab flat onto the strap (282–296).
+
+**Checked:** no contact with any pod part on every frame of 1–61 and 240–300.
+
+**Tunables** at the top of `strap.py`: `STRAP_W`, `STRAP_T`, `THICK_T`, `RAMP`, `TAB_LEN`, the end profile (`WRAP_Z`, `WRAP_R`, `DOWN_Z`, `TUCK_DZ`), wrist size (`LOOP_C`, `LOOP_R`), `DROP_MAX`, timing, `LOGO_ENDS`, `LOGO_H`.
 
 ## 6. Materials
 
@@ -110,7 +132,10 @@ Not in CAD, so it's modelled in Blender: black woven elastic webbing, 3.5 cm × 
 | `BAND_Polyimide` | Flex | Translucent amber polyimide |
 | `BAND_Magnet_Nickel` | Magnets | Nickel-plated metal |
 | Brass | Pogo pins | Beacon's tuned brass |
-| `BAND_Strap_Webbing`, `BAND_Strap_Tab` | Strap | Matte black fabric, dark sheen, ribbed weave bump (UVs in cm) |
+| `BAND_Strap_Webbing` | Whole strap | Black woven fabric: diagonal twill ribs (0.12 cm) over a fine cross weave, with sheen. UVs in cm |
+| `BAND_Strap_Leather` | Front of each tab | Faux leather, pebble grain, satin. Dashed dark-grey stitching inset 0.13 cm from the patch edge ("Patch" UVs: cm from the tip) |
+| `BAND_Strap_Velcro` | Back of each tab | Hook-and-loop: dark, fuzzy, rough |
+| `BAND_Logo_Grey` | Lower piece of the S on the tabs (the roof is Pantone orange) | Grey 0.21 |
 | `BAND_auto_r_g_b` | Board components | From each part's USD colour by Beacon's class rules. Fusion tags most STEP parts "Steel - Satin", so that appearance is ignored |
 
 - **`LED_COLOR`** = soft blue (linear 0.05, 0.38, 1.0), picked to match the edge glow in the product photo. Change it in `build_band.py` and rebuild.
@@ -126,7 +151,7 @@ From this folder (about 5–6 min per theme for 300 frames):
 
 ## 8. Scroll page (`index.html`)
 
-- Shared player, 300 frames, light theme by default (`?theme=dark` for dark). `version` 7.
+- Shared player, 300 frames, light theme by default (`?theme=dark` for dark). `version` 10.
 - **Pacing (`stops`):** a short worn hold, the strap removal over ~2 screens, then the explode, a linger on the hold, then reassembly.
 - **No callouts yet.** Candidates:
   - optical sensor + windows (AFE4410 PPG front end)

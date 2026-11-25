@@ -32,11 +32,11 @@
 <script>
 window.SEQUENCE = {
   frameCount: 300,
-  version: 7,                     // bump after every re-render
+  version: 10,                     // bump after every re-render
   renderSize: [1920, 1080],
   frameDirs: { light: "frames_white", dark: "frames" },
   defaultTheme: "light",
-  // Worn (1-20) -> ends peel off (20-32) -> loop drops, ends back out of the slots (32-80) -> pod alone -> opens (92-158) -> hold -> closes (166-236) -> strap back on (236-296)
+  // Worn (1-20) -> tabs unfold to vertical (20-36) -> strap pulls straight down (36-80) -> pod alone -> opens (92-158) -> hold -> closes (166-236) -> strap back on (236-296)
   stops: [[0, 1], [60, 20], [260, 80], [320, 92], [520, 158], [620, 166], [900, 236], [1160, 296], [1200, 300]],
   // calloutsFile: "callouts.json", // after running a tools/callouts.py for Band
   callouts: [],
