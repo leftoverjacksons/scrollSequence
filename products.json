@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "beacon-v3",
+    "name": "Beacon V3",
+    "tagline": "Ruggedized cellular sensor beacon",
+    "poster": "frames_white/frame_090.webp",
+    "status": "live",
+    "updated": "2026-11-24"
+  },
+  {
+    "slug": "band-v2",
+    "name": "Band V2",
+    "tagline": "Wearable physiological monitor",
+    "poster": "frames_white/frame_160.webp",
+    "status": "draft",
+    "updated": "2026-11-25"
+  }
+]

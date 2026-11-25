@@ -1,0 +1,66 @@
+/* Shared scroll-sequence player styles. A product page can override any token in its own
+   <style> (e.g. --accent for a different brand colour). Light is the default; ?theme=dark
+   switches to the dark-studio frames. */
+:root, [data-theme="light"] {
+  --bg: #ffffff;         /* matches white-background renders (frames_white/) */
+  --fg: #1f2023;
+  --muted: #5f6267;
+  --accent: #ff671f;     /* Pantone 165 C */
+  --line: rgba(31, 32, 35, .45);
+  --dot: #ff671f;
+}
+[data-theme="dark"] {
+  --bg: #17181c;         /* matches dark renders (frames/) */
+  --fg: #f2f0ea;
+  --muted: #a3a6ab;
+  --accent: #ff7a3d;
+  --line: rgba(242, 240, 234, .55);
+  --dot: #f2f0ea;
+}
+* { box-sizing: border-box; margin: 0; }
+html, body { background: var(--bg); color: var(--fg); }
+body { font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+
+.back {
+  position: fixed; top: 12px; left: 16px; z-index: 10; font-size: .8rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--muted); text-decoration: none;
+}
+.back:hover { color: var(--accent); }
+
+.intro, .outro {
+  min-height: 70vh; display: grid; place-content: center; text-align: center; padding: 0 16px;
+}
+h1 { font-size: clamp(2.4rem, 7vw, 5rem); letter-spacing: -0.03em; font-weight: 700; color: var(--accent); }
+.intro p, .outro p { color: var(--muted); margin-top: .5rem; }
+.hint { margin-top: 2.5rem; font-size: .8rem; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); }
+
+/* The scroll track: its height is set from STOPS in the script */
+.sequence { position: relative; }
+.stage { position: sticky; top: 0; height: 100vh; overflow: hidden; }
+canvas { width: 100%; height: 100%; display: block; }
+
+/* Callouts: SVG leader lines + HTML labels */
+#leaders { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; }
+#leaders polyline { fill: none; stroke: var(--line); stroke-width: 1; }
+#leaders .dot { fill: var(--dot); }
+#leaders .ring { fill: none; stroke: var(--accent); stroke-width: 1.25; }
+.label {
+  position: absolute; top: 0; left: 0; width: max-content; max-width: min(15rem, 38vw);
+  pointer-events: none; will-change: transform, opacity; opacity: 0;
+}
+.label.left { text-align: right; }
+.label b { display: block; font-size: clamp(.95rem, 1.4vw, 1.15rem); font-weight: 650; letter-spacing: -.01em; }
+.label span { display: block; color: var(--muted); font-size: clamp(.75rem, 1vw, .85rem); line-height: 1.35; }
+
+.headline {
+  position: absolute; top: 0; left: 0; max-width: min(24rem, 80vw); opacity: 0;
+  pointer-events: none; will-change: opacity, transform;
+}
+.headline small { color: var(--accent); letter-spacing: .15em; text-transform: uppercase; font-size: .75rem; font-weight: 600; }
+.headline h2 { font-size: clamp(1.4rem, 3vw, 2.2rem); font-weight: 650; letter-spacing: -0.02em; }
+.headline p { color: var(--muted); }
+
+.loader {
+  position: absolute; inset: auto 0 0 0; height: 2px; background: var(--accent);
+  transform-origin: left; transform: scaleX(0); transition: transform .2s, opacity .6s;
+}

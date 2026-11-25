@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beacon V3</title>
+<link rel="stylesheet" href="../../shared/player.css">
+</head>
+<body>
+
+<a class="back" href="../../">← All products</a>
+
+<section class="intro">
+  <h1>Beacon V3</h1>
+  <p>Every part, in its place.</p>
+  <div class="hint">Scroll</div>
+</section>
+
+<section class="sequence" id="sequence">
+  <div class="stage" id="stage">
+    <canvas id="canvas"></canvas>
+    <svg id="leaders"></svg>
+    <div class="headline" id="headline">
+      <small>Built tough</small><h2>Ruggedized construction</h2>
+      <p>A rigid ASA shell wrapped in an impact-absorbing TPE overmold.</p>
+    </div>
+    <div class="loader" id="loader"></div>
+  </div>
+</section>
+
+<section class="outro">
+  <h1>Beacon V3</h1>
+  <p>Designed in Fusion. Rendered in Blender.</p>
+</section>
+
+<script>
+window.SEQUENCE = {
+  frameCount: 180,
+  version: 11,                 // bump after re-rendering so browsers don't show cached frames
+  renderSize: [1920, 1080],
+  frameDirs: { light: "frames_white", dark: "frames" },   // light = Slate Safety site; ?theme=dark
+  defaultTheme: "light",
+
+  // Scroll pacing: [scroll position in vh, animation frame]
+  stops: [
+    [0, 1], [40, 2],
+    [160, 13],            // ruggedized construction: ASA + TPE
+    [300, 26],            // buttons + LED indicator + sensor tunnel
+    [400, 56],            // pitch + explode
+    [500, 66],            // 1/4"-20 mount
+    [540, 76],
+    [640, 88],            // cell antenna
+    [740, 97],            // M8 auxiliary input
+    [840, 109],           // polymagnet bracket
+    [950, 123],           // LiPoly battery
+    [1100, 180],          // reassemble
+  ],
+
+  // frames = [first, last] frame the label shows; anchor = key in callouts.json
+  // (a point on the part, tracked per frame by tools/callouts.py); side = preferred side.
+  calloutsFile: "callouts.json",
+  headlineFrames: [2, 13],
+  callouts: [
+    { anchor: "asa",     frames: [2, 13],   side: "left",  title: "ASA substrate",  sub: "Rigid, UV-stable structure" },
+    { anchor: "tpe",     frames: [2, 13],   side: "left",  title: "TPE overmold",   sub: "Impact-absorbing outer skin" },
+    { anchor: "buttons", frames: [14, 26],  side: "left",  title: "Buttons",        sub: "Molded into the overmold" },
+    { anchor: "led",     frames: [14, 26],  side: "right", title: "LED indicator",  sub: "Light pipe carries status to the edge" },
+    { anchor: "sensor",  frames: [14, 26],  side: "right", title: "Sensor tunnel",  sub: "Open path to the onboard sensors" },
+    { anchor: "mount",   frames: [57, 65],  side: "left",  title: "¼\"-20 standard mount", sub: "Fits any tripod or camera mount" },
+    { anchor: "antenna", frames: [77, 88],  side: "left",  title: "Cell antenna",   sub: "Flexible LTE antenna" },
+    { anchor: "m8",      frames: [88, 97],  side: "right", title: "Auxiliary input", sub: "M8 connector port" },
+    { anchor: "magnet",  frames: [97, 109], side: "left",  title: "Polymagnet bracket", sub: "Magnetic mounting bracket" },
+    { anchor: "battery", frames: [109, 123],side: "right", title: "LiPoly battery", sub: "Rechargeable lithium-polymer cell" },
+  ],
+};
+</script>
+<script src="../../shared/player.js"></script>
+</body>
+</html>

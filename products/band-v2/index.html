@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Band V2</title>
+<link rel="stylesheet" href="../../shared/player.css">
+</head>
+<body>
+
+<a class="back" href="../../">← All products</a>
+
+<section class="intro">
+  <h1>Band V2</h1>
+  <p>Every part, in its place.</p>
+  <div class="hint">Scroll</div>
+</section>
+
+<section class="sequence" id="sequence">
+  <div class="stage" id="stage">
+    <canvas id="canvas"></canvas>
+    <svg id="leaders"></svg>
+    <div class="loader" id="loader"></div>
+  </div>
+</section>
+
+<section class="outro">
+  <h1>Band V2</h1>
+  <p>Designed in Fusion. Rendered in Blender.</p>
+</section>
+
+<script>
+window.SEQUENCE = {
+  frameCount: 300,
+  version: 7,                     // bump after every re-render
+  renderSize: [1920, 1080],
+  frameDirs: { light: "frames_white", dark: "frames" },
+  defaultTheme: "light",
+  // Worn (1-20) -> ends peel off (20-32) -> loop drops, ends back out of the slots (32-80) -> pod alone -> opens (92-158) -> hold -> closes (166-236) -> strap back on (236-296)
+  stops: [[0, 1], [60, 20], [260, 80], [320, 92], [520, 158], [620, 166], [900, 236], [1160, 296], [1200, 300]],
+  // calloutsFile: "callouts.json", // after running a tools/callouts.py for Band
+  callouts: [],
+};
+</script>
+<script src="../../shared/player.js"></script>
+</body>
+</html>

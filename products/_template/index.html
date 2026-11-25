@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product Name</title>
+<link rel="stylesheet" href="../../shared/player.css">
+<!-- Per-product brand colour, if different from Pantone 165 C:
+<style>:root, [data-theme="light"] { --accent: #0066cc; --dot: #0066cc; }</style> -->
+</head>
+<body>
+
+<a class="back" href="../../">← All products</a>
+
+<section class="intro">
+  <h1>Product Name</h1>
+  <p>One-line tagline.</p>
+  <div class="hint">Scroll</div>
+</section>
+
+<section class="sequence" id="sequence">
+  <div class="stage" id="stage">
+    <canvas id="canvas"></canvas>
+    <svg id="leaders"></svg>
+    <!-- Optional headline block shown over headlineFrames:
+    <div class="headline" id="headline"><small>Eyebrow</small><h2>Headline</h2><p>Body copy.</p></div> -->
+    <div class="loader" id="loader"></div>
+  </div>
+</section>
+
+<section class="outro">
+  <h1>Product Name</h1>
+  <p>Designed in Fusion. Rendered in Blender.</p>
+</section>
+
+<script>
+// Copy this folder to products/<slug>/, fill this in, and add the product to products.json.
+window.SEQUENCE = {
+  frameCount: 180,
+  version: 1,                       // bump after every re-render
+  renderSize: [1920, 1080],
+  frameDirs: { light: "frames_white", dark: "frames" },   // drop a theme you didn't render
+  defaultTheme: "light",
+  stops: [[0, 1], [900, 180]],      // [scroll vh, frame]: start even, add stops for callouts later
+  // calloutsFile: "callouts.json", // after running tools/callouts.py
+  // headlineFrames: [2, 13],
+  callouts: [
+    // { anchor: "key-in-callouts.json", frames: [first, last], side: "left", title: "Part", sub: "Detail" },
+  ],
+};
+</script>
+<script src="../../shared/player.js"></script>
+</body>
+</html>
